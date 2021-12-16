@@ -1,4 +1,4 @@
-# cut & style Salon UI
+# Cut & Style Salon UI
 
   <div class="row">
     <img src="https://user-images.githubusercontent.com/69755039/146428345-db987207-b796-4051-90fb-aa36e317df59.jpg" width="1080" height="850">
