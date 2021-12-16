@@ -1,4 +1,10 @@
-# cutnstyle
+# cut & style Salon UI
+
+  <div class="row">
+    <img src="https://user-images.githubusercontent.com/69755039/146428345-db987207-b796-4051-90fb-aa36e317df59.jpg" width="1080" height="850">
+    <img src="https://user-images.githubusercontent.com/69755039/146428351-297c14c2-4a3b-41af-81df-5aa661dd3811.jpg" width="1080" height="850">
+    <img src="https://user-images.githubusercontent.com/69755039/146428354-2ead21da-ceb7-4aa7-a209-e9c3f7b7adf9.jpg" width="1080" height="850">
+  </div>
 
 A new Flutter application.
 
